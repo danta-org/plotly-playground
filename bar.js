@@ -1,14 +1,14 @@
 var trace1 = {
-  x: ['code', 'secret', 'vuln'],
+  x: ['Repo1', 'Repo2', 'Repo3'],
   y: [20, 14, 23],
-  name: 'Repo 1',
+  name: 'Code Scan',
   type: 'bar'
 };
 
 var trace2 = {
-  x: ['code', 'secret', 'vuln'],
+  x: ['Repo1', 'Repo2', 'Repo3'],
   y: [12, 18, 29],
-  name: 'Repo 2',
+  name: 'Secret Scan',
   type: 'bar'
 };
 
