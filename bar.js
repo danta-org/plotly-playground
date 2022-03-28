@@ -1,3 +1,9 @@
+$.getJSON('https://fictional-dollop-14006ee9.pages.github.io/code-scan.json', function(data) {
+    // JSON result in `data` variable
+});
+
+console.log(data)
+
 var trace1 = {
   x: ['Repo1', 'Repo2', 'Repo3'],
   y: [20, 14, 23],
